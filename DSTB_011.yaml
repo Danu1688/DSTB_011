@@ -1,7 +1,7 @@
 proxies:
 - name: Akhirudin_LiveDO_1
   type: trojan
-  server: 104.21.8.121
+  server: circles.asia
   port: 443
   password: 6bf640bd-fa9f-4d02-a9bc-9eda176c65c8
   udp: true
